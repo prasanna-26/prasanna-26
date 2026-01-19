@@ -30,7 +30,7 @@
 ---
 
 ### 📌 Featured Projects
+- [**AirBnB Booking & Price Analysis & Web App**](https://github.com/prasanna-26/San-Diego-Airbnb-Booking-Portal-Host-Companion)
 - [**Flight Management System**](https://github.com/prasanna-26/Flight_Management_System)  
 - [**Titanic Survival Prediction**](https://github.com/prasanna-26/Titanic_Survival_Prediction)  
-- [**SQL Music Store Analysis**](https://github.com/prasanna-26/SQL_Music_Store_Analysis)  
-- [**Workforce Management**](https://github.com/prasanna-26/Workforce_Management)  
+- [**SQL Music Store Analysis**](https://github.com/prasanna-26/SQL_Music_Store_Analysis)   
